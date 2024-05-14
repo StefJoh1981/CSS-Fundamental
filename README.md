@@ -6,8 +6,8 @@ CSS Fundamentals Concept Exercise
 
 2.	Styles:
 •	Inline- Uses Style Attribute
-•	Internal- Uses <stage> tags in the <head>
-•	External-Uses <link> tag
+•	Internal- Uses stage tags in the head
+•	External-Uses link tag
 
 3.	Consists of a selector and a declaration block.
 
